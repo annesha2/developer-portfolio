@@ -1,7 +1,7 @@
 export const experiences = [
   {
     id: 1,
-    title: 'COMING SOON'
+    title: 'COMING SOON STAY TUNED'
   },
   // {
   //   id: 2,
