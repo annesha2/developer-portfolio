@@ -17,5 +17,5 @@ export const personalData = {
   devUsername: "Annesha123",
 
   resume:
-    "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing",
+    "https://drive.google.com/file/d/1qi5n5DlVhNHNQuF4hc9cSrsQJtSsv30I/view?usp=sharing",
 };
