@@ -2,7 +2,7 @@ export const educations = [
   {
     id: 1,
     title: "Bachelor Of Technology",
-    duration: "2020 - Present",
+    duration: "2024 - Present",
     institution: "Narula Institute Of Technology",
   },
   {
